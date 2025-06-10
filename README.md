@@ -1,4 +1,4 @@
-# <Hi 👋 I'm Basil Thomas>
+# <div align="center">Basil Thomas</div>
 
 ### Power BI Dashboard Developer
 - 🔧 **Skills**: Power BI, DAX, Power Query, SQL, Data Storytelling
