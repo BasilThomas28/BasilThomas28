@@ -13,4 +13,4 @@
   *(Attrition analysis with What-If parameters)*
 
 ### Fun Fact
-#I once automated my coffee tracking with Power BI! ☕📈
+I once automated my coffee tracking with Power BI! ☕📈
