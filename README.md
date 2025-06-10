@@ -1,4 +1,4 @@
-#              Hi there 👋 I'm Basil Thomas 
+##                                     Hi there 👋 I'm Basil Thomas 
 
 ### Power BI Dashboard Developer
 - 🔧 **Skills**: Power BI, DAX, Power Query, SQL, Data Storytelling
