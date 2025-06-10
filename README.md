@@ -1,4 +1,6 @@
-# <div align="center">Hi👋 I'm Basil Thomas</div>
+# <div align="center">Hi👋, I'm Basil Thomas</div>
+
+### <div align="center">Business Analyst - co-op in Lambton College</div>
 
 ### Power BI Dashboard Developer
 - 🔧 **Skills**: Power BI, DAX, Power Query, SQL, Data Storytelling
